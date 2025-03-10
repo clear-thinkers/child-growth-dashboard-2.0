@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/child-growth-dashboard-2.0/static/css/main.f855e6bc.css",
-    "main.js": "/child-growth-dashboard-2.0/static/js/main.c87967f3.js",
+    "main.js": "/child-growth-dashboard-2.0/static/js/main.3865f899.js",
     "static/js/453.2e45cf7f.chunk.js": "/child-growth-dashboard-2.0/static/js/453.2e45cf7f.chunk.js",
+    "static/media/framework.svg": "/child-growth-dashboard-2.0/static/media/framework.9157f2dc1ca94f205636c3919e5d56b3.svg",
     "index.html": "/child-growth-dashboard-2.0/index.html",
     "main.f855e6bc.css.map": "/child-growth-dashboard-2.0/static/css/main.f855e6bc.css.map",
-    "main.c87967f3.js.map": "/child-growth-dashboard-2.0/static/js/main.c87967f3.js.map",
+    "main.3865f899.js.map": "/child-growth-dashboard-2.0/static/js/main.3865f899.js.map",
     "453.2e45cf7f.chunk.js.map": "/child-growth-dashboard-2.0/static/js/453.2e45cf7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c87967f3.js"
+    "static/js/main.3865f899.js"
   ]
 }
